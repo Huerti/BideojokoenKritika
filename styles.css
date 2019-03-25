@@ -1,0 +1,98 @@
+/*styles.css*//*Ibai Calvo Durán*/
+* {
+    padding: 0;
+    margin: 0;
+}
+#container {
+    width: 1000px;
+    margin: 0 auto;
+}
+header {
+  padding: 20px;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  background-color: #666;
+  height: 100px;
+  border: solid black 3px;
+  width: 954px
+}
+
+header h1 {
+    float: left;
+    width: 554px;
+    margin-left: 100px
+}
+aside {
+    clear:both;
+}
+nav {
+  float: left;
+  width: 198px;
+  background-color: #999 ;
+  padding: 10px;
+  border: solid black 3px;
+  height: 274px;
+}
+section {
+    float: left;
+    width: 750px;
+}
+article {
+  float: left;
+  width: 100%;
+  background-color: #999;
+  border: solid black 3px;
+  height: 274px;
+  padding: 10px;
+}
+footer {
+  background-color: #777;
+  padding: 50px;
+  font-size: 30px;
+  border: solid black 3px;   
+  float: left;
+  width: 894px
+}
+.title {
+    text-align: center;
+}
+
+.parrafoIndex{
+    text-align: justify;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.sinpunto {
+    margin-left:10px;
+    font-size: 20px;
+    list-style-type: none;
+}
+.fotosConsolas {
+    width: 100px;
+    height: 100px;
+}
+#fotoMenua {
+    margin-left: 40px;
+}
+
+#ps4{
+    float: left
+}
+.parrafoIritzi{
+    font-size: 14px; 
+    width: 450px;
+}
+
+.titleIritzi{
+    float: left;
+    width: 450px;
+    text-align: center
+}
+
+.fotosIritzi{
+    width: 160px;
+    height: 110px;
+    float: right;
+}
